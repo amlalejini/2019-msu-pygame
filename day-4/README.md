@@ -18,7 +18,7 @@ The indented code block under the `def` line constitutes the body of the functio
 After we `def` the function we call it by its name followed by a set of parentheses with the arguments it needs inside.
 In this first example, the function `hello_world()` takes no arguments.
 
-```python3
+```python
 def hello_world():
   print("Hello world!")
 
@@ -27,7 +27,7 @@ hello_world()
 
 In this next example, we see how functions can access variables from outside their code block.
 
-```python3
+```python
 name = "Rear Admiral Grace Brewster Murray Hopper"
 
 def hello_person():
@@ -42,7 +42,7 @@ hello_person()
 
 However, functions can't _change_ variables outside their code block
 
-```python3
+```python
 name = "Rear Admiral Grace Brewster Murray Hopper"
 
 def name_change():
@@ -55,7 +55,7 @@ print(name)
 
 Variables inside functions override variables from outside functions.
 
-```python3
+```python
 name = "Scarlin Hernandez"
 
 def hello_person():
@@ -69,7 +69,7 @@ print("Outside", name) # This should print 'Scarlin Hernandez'
 
 This function takes one argument.
 
-```python3
+```python
 def hello_person(name):
   print("Hello", name)
 
@@ -80,7 +80,7 @@ hello_person("Dr. Alan Mathison Turing")
 
 This function takes two arguments.
 
-```python3
+```python
 def repeat_hello(n, name):
   for i in range(n):
     print("Hello, name, i)
@@ -92,7 +92,7 @@ repeat_hello(7, "Roy L. Clay, Sr.")
 
 Functions can use the `return` keyword to halt and give a value back to the caller.
 
-```python3
+```python
 def oh_hai(name):
   return "oh, hai " + name
   print("do more stuff")    # This isn't executed because it comes after the return
