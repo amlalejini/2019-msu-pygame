@@ -117,6 +117,12 @@ with the goal of reaching the giant coin in the top right corner of the screen.
 
 ## Angle shooting
 
+...comming soon...
+
 ## Interacting with an NPC
 
+...comming soon...
+
 ## NPC Movement
+
+...comming soon...
