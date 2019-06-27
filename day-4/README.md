@@ -1,3 +1,15 @@
+# Making a Game of IT - Day 4
+
+<!-- TOC -->
+
+- [Functions](#functions)
+- [Jumping around](#jumping-around)
+- [Angle shooting](#angle-shooting)
+- [Interacting with an NPC](#interacting-with-an-npc)
+- [NPC Movement](#npc-movement)
+
+<!-- /TOC -->
+
 ## Functions
 
 We've been using Python's built-in functions like `str()`, `input()`, `len()`, and `print()`.
@@ -28,7 +40,7 @@ name = "Dr. Alan Mathison Turing"
 hello_person()
 ```
 
-However, functions can't change variables outside their code block
+However, functions can't _change_ variables outside their code block
 
 ```python3
 name = "Rear Admiral Grace Brewster Murray Hopper"
@@ -48,11 +60,11 @@ name = "Scarlin Hernandez"
 
 def hello_person():
   name = "inside name"
-  print("Hello", name)
+  print("Hello", name) # This should print 'inside name'
 
 hello_person()
 
-print("Outside", name)
+print("Outside", name) # This should print 'Scarlin Hernandez'
 ```
 
 This function takes one argument.
@@ -83,7 +95,7 @@ Functions can use the `return` keyword to halt and give a value back to the call
 ```python3
 def oh_hai(name):
   return "oh, hai " + name
-  print("do more stuff")
+  print("do more stuff")    # This isn't executed because it comes after the return
 
 result = oh_hai("Dr. Fei-Fei Li")
 print(result)
@@ -93,3 +105,11 @@ Why are functions useful?
 1. re-use of code inside the function (you have to type less code)
 2. compartmentalize code so that high-level structure of your program is easier to follow
 3. experiment with/test individual components of your program
+
+## Jumping around
+
+## Angle shooting
+
+## Interacting with an NPC
+
+## NPC Movement
