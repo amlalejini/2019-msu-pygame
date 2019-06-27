@@ -3,7 +3,7 @@
 <!-- TOC -->
 
 - [Functions](#functions)
-- [Jumping around](#jumping-around)
+- [Jumping around (platforming)](#jumping-around-platforming)
 - [Angle shooting](#angle-shooting)
 - [Interacting with an NPC](#interacting-with-an-npc)
 - [NPC Movement](#npc-movement)
@@ -106,7 +106,7 @@ Why are functions useful?
 2. compartmentalize code so that high-level structure of your program is easier to follow
 3. experiment with/test individual components of your program
 
-## Jumping around
+## Jumping around (platforming)
 
 The example game shown below is a simple platformer where players control sparty
 with the goal of reaching the giant coin in the top right corner of the screen.

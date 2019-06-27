@@ -66,6 +66,12 @@ Some generation information:
 <hr/>
 
 - [Day 3 (Wednesday) - Advanced Pygame](./day-3/)
+  - [Pygame - Text, Buttons, and Menus](./day-3/#pygame---text-buttons-and-menus)
+    - [Text](./day-3/#text)
+    - [Buttons](./day-3/#buttons)
+    - [Menus](./day-3/#menus)
+  - [Pygame - Music and sound effects](./day-3/#pygame---music-and-sound-effects)
+  - [Pygame - High-level structure](./day-3/#pygame---high-level-structure)
 
 <hr/>
 
