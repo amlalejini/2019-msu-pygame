@@ -111,7 +111,7 @@ Why are functions useful?
 The example game shown below is a simple platformer where players control sparty
 with the goal of reaching the giant coin in the top right corner of the screen.
 
-**To run this game you will need the [coin.png](/media/sparty-platformer/coin.png) and [sparty.png](/media/sparty-platformer/Sparty.png) files!**
+**To run this game you will need the [coin.png](/media/coin.png) and [sparty.png](/media/Sparty.png) files!**
 
 {% include codeinclude.html file='sparty-platformer/platformer.py' %}
 
