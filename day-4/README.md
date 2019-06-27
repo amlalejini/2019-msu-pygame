@@ -117,7 +117,7 @@ with the goal of reaching the giant coin in the top right corner of the screen.
 
 ## Angle shooting
 
-...comming soon...
+{% include codeinclude.html file='pointer.py' %}
 
 ## Interacting with an NPC
 
