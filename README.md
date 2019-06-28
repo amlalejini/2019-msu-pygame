@@ -83,7 +83,7 @@ Some generation information:
 
 <hr/>
 
-- [Day 5 (Friday) - Game design & demos](./day-5/)
+<!-- - [Day 5 (Friday) - Game design & demos](./day-5/) -->
 
 ## More Resources
 
