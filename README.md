@@ -93,7 +93,7 @@ Some generation information:
 - [Invent with Python's 'Making Games with Python and Pygame'](https://inventwithpython.com/pygame/)
   - [pdf of associated book](./course-resources/book-making-games-with-python-and-pygame.pdf)
 
-## Guest computer scientists - Emily and Elana
+## Guest experts - Emily and Elana
 
 - [Emily's web-based cancer model!](https://emilydolson.github.io/memic_model/web/memic_model.html)
 - [Elana's Safe Space game!](http://elanabellbogdan.com/safe_space/)
