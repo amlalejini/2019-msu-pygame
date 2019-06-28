@@ -76,6 +76,10 @@ Some generation information:
 <hr/>
 
 - [Day 4 (Thusday) - Game design](./day-4/)
+  - [Functions](./day-4/#functions)
+  - [Jumping around (platforming)](./day-4/#jumping-around-platforming)
+  - [Angle shooting](./day-4/#angle-shooting)
+  - [Interacting with an NPC](./day-4/#interacting-with-an-npc)
 
 <hr/>
 
