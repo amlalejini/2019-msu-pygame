@@ -6,7 +6,6 @@
 - [Jumping around (platforming)](#jumping-around-platforming)
 - [Angle shooting](#angle-shooting)
 - [Interacting with an NPC](#interacting-with-an-npc)
-- [NPC Movement](#npc-movement)
 
 <!-- /TOC -->
 
@@ -121,8 +120,4 @@ with the goal of reaching the giant coin in the top right corner of the screen.
 
 ## Interacting with an NPC
 
-...comming soon...
-
-## NPC Movement
-
-...comming soon...
+{% include codeinclude.html file='chatterbot.py' %}
