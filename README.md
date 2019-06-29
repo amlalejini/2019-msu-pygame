@@ -1,6 +1,6 @@
 # Making a Game of IT
 
-**We had 6 teams of students each create a video game using pygame, find them ...coming soon...!**
+**We had 6 teams of students each create a video game using pygame, find them [here](./2019-student-games)!**
 
 Find a schedule for the Making a Game of IT programming camp [here](https://www.egr.msu.edu/future-engineer/sites/default/files/content/mgit_2019_0.pdf).
 

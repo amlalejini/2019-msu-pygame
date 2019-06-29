@@ -1,4 +1,4 @@
-# Student-submitted Example Programs/Games
+# Student-submitted Example Programs
 
 <!-- TOC -->
 
