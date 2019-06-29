@@ -1,12 +1,8 @@
 # Making a Game of IT
 
+**We had 6 teams of students each create a video game using pygame, find them ...coming soon...!**
+
 Find a schedule for the Making a Game of IT programming camp [here](https://www.egr.msu.edu/future-engineer/sites/default/files/content/mgit_2019_0.pdf).
-
-Some generation information:
-
-- Computer Login:
-  - Username: SpartyGame
-  - Password: Sparty1855Game
 
 ## Camping
 
