@@ -98,4 +98,4 @@ Find a schedule for the Making a Game of IT programming camp [here](https://www.
 
 - [Dr. Josh Nahum](http://www.nahum.us/)
 - [Matthew Andres Moreno](https://mmore500.github.io/)
-- [Alexander Lalejini](https://lalejini.com/)
+- [Alexander Lalejini](https://lalejini.com/) (email: lalejini@msu.edu)
