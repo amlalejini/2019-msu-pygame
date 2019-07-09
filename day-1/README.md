@@ -314,16 +314,16 @@ for i in range(0,13):
 ```
 
 Conceptually, `for` iterates over each element `in` a collection --- it puts each element in the collection one at a time into the variable `i`.
-The function `range(0,n-1)` creates a collection with the numbers `0` through `n-1`.
-(This way, when code inside `for i in range(n):` runs `n` times.)
-If we wanted the numbers 1 through 13 instead of 0 through twelve, we would write `range(1,13)`.
+The function `range(0,n)` creates a collection with the numbers `0` through `n-1`.
+(This way, when code inside `for i in range(0, n):` runs `n` times.)
+If we wanted the numbers 1 through 13 instead of 0 through twelve, we would write `range(1,14)`.
 
 **Comprehension Question:**
 How many times will "Boo!" get printed?
 
 ```python
-for i in range(3):
-  for j in range(3):
+for i in range(0, 3):
+  for j in range(0, 3):
     print("Boo!")
 ```
 
